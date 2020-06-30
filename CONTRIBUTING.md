@@ -1,3 +1,5 @@
+Bitte sende eine E-Mail an: Lieblings_Kollege@fima.com
+
 # Contributing
 
 Your contributions are always welcome!
